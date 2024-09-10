@@ -1,0 +1,121 @@
+# jemdoc: menu{MENU}{project_ideas.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+== Dataset & Project Ideas
+
+Below are some potential datasets and topics for your class project. Please contact the course staff if you have questions about these datasets. 
+
+
+===  Application problems 
+
+~~~
+{}{img_left}{./images/construction.png}{}{200px}{}{}
+
+==== Construction activity recognition  
+(Contact teaching staff for dataset)
+
+RGB videos of construction workers involved in different acitivities. 
+Person bounding box and partial activity lables are provided. 
+
+*Project ideas*:  
+- Semi-supervised construction worker activity recognition   
+- Active learning for activity recognition
+~~~
+ 
+
+
+~~~
+{}{img_left}{./images/pose.png}{}{200px}{}{}
+==== Multimodal 3D human pose estimation 
+[https://cloud.tsinghua.edu.cn/f/8f00d62e147a4fcc9ad4/?dl=1 Download]
+
+A human pose estimation dataset containing videos from two cameras and two IMU sensors attached on the right forarm and the upper arm of the actor.  The ground truth 3D joint coordinates are computed using opencap. 
+
+Project ideas:
+- Use video input of a single camera and IMU data to estimate the 3D joint coordinates of human body.  
+- Improve vision-based pose estimation with occlusion using sensor data. 
+~~~
+
+
+
+~~~
+{}{img_left}{./images/case.png}{}{200px}{}{}
+==== Enhancing Shenzhen citizens' demand mediation through AI
+
+(Contact course staff for dataset)
+
+
+A dataset containing records  of over 15,000   complaint cases collected from the Shenzhen Citizen Service Hotlines during 2022-2023. 
+
+
+*Project ideas*:
+- Develop a model that predicts the total processing time of a  complaint and its final outcome
+- Analyze the causal factors causing user dissatisfaction
+- Model how a complaint case is transferred across a network of different civil departments. 
+
+~~~
+
+
+
+
+
+~~~
+{}{img_left}{./images/volunteers.png}{}{200px}{}{}
+==== Shenzhen volunteer activity dataset
+[https://volunteerchallenge.github.io Website]
+
+Volunteer participation records from the 战役先锋APP platform from Feb 2020 to Jan 2022. Each record contains user id and volunteer task descriptions including location, date time, actvity type etc. 
+
+*Project ideas*:
+- Find patterns in volunteer activities in response to the COVID-19 outbreak in Shenzhen 
+- Predict the retention of a volunteer based on past volunteering history
+- Model how volunteer communities evolve over time
+~~~
+
+
+
+
+
+===  Machine learning problems 
+~~~
+{}{img_left}{./images/recomm.png}{}{200px}{}{}
+==== Source model recommendation in few-shot transfer learning
+[https://github.com/davechenxy/Model_Detective  Website]
+
+*Problem*: Given a zoo of different pre-trained models, how to efficiently recommend best models  for a few-shot task?
+
+*Dataset*: A benchmark dataset containing the fine-tuning results of 10 source models on 270 tasks will be provided.
+Each model has a variety of features including description, architecture info and training dataset info.  
+
+*Project Idea*:
+ - Learn latent task embedding  
+ - Improve model recommendation by transferability estimation 
+
+~~~
+
+
+~~~
+{}{img_left}{./images/sequential.png}{}{200px}{}{}
+==== Learning transfer path for sequential transfer learning  
+
+(Contact teaching staff for dataset)
+
+*Problem*: Sequential transfer learning is useful when transfering from a source model (S) to a distant target task (T), 
+where a few-shot intermediate task (I) acts as a bridge between the source and target model.  
+How to select the optimal sequence of intermediate tasks? 
+
+*Dataset*: A collection of multi-center, multi-domain medical segmentation datasets. 
+Historical sequential fine-tuning results   of all 1- and 2-hop transfer paths on this dataset are available.   
+
+*Project Idea*:
+ - Explore under what condition is S->I->T more effective than S->T transfer. 
+ - Learn the optimal transfer sequence (policy) by reinforcement learning 
+
+~~~
+
+
+ 
+ 
+
+
+
+

@@ -1,0 +1,91 @@
+# jemdoc: menu{MENU}{project.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+== Class Project Information
+
+=== Teams 
+The final project will be done in teams of 2-3 people.  Please fill in the team assignment form before Apirl 26.  
+
+=== Important Milestones
+
+~~~
+{}{table}{office-hour}
+*Deadline*   | *Task* ||
+Apirl 28 | Submit group assigment  ||
+May 13 | Submit project proposal   ||
+May 14-17 | Team meeting with course staff ||
+June 19 | Submit poster PDF file (Submission will be closed at 11:59am) ||
+June 21 | Poster session ||
+June 28 | Submit final report   
+
+~~~
+
+~~~
+{Notice}
+*Proposal*:  The proposal should be *no more than one page (single-space, excluding references)*. It should briefly describe the topic, background, related work, problem and proposed method of your project.
+ 
+*Meeting with course staff*: After submitting the proposal, please arrange a meeting with the instructor or one of the TAs get feedback on the project proposal. 
+
+*Poster Presentation*: We will hold a poster session to showcase your project on the final week. 
+Each group need to submit a poster in *PDF format* of *A0-size* to Web Learning before June 12. 
+You will present your work in our final class on June 21.  
+
+*Final Report*: Each group should submit a written report in a single PDF document with at most *4 pages*. 
+All related materials, such as source code, should also be provided. 
+
+*[project_ideas.html Datasets and project ideas]* 
+
+*[media/PosterPresentations.com-A0-Template.pptx  Poster template]*
+
+*[poster.html Poster session information & grading policy]* 
+
+~~~
+
+=== Project Topic
+ *You may choose any topic you are interested in (such as your research area) as long as it pertains to the topics of this class.*  You are encouraged to explore advanced machine learning techniques and novel data-driven applications. While we encourage interdisciplinary projects, the main focus should be about applying and understanding learning methods rather than the data collection and hardware design process. 
+
+Usually, your project will fall into one of the following categories:
+- *Application*: use machine learning  to solve a specific problem, e.g.  
+    -- AI applications such as computer vision, NLP, speech recognition, etc
+    -- Information processing for physical systems, such as energy, material and optics   
+- *Algorithm*: develop a machine learning method that has better performance, e.g. 
+	-- Improve the robustness of an algorithm under noisy data 
+    -- Make a machine learning method more efficient  
+- *Theory*: theoretical problems, e.g.
+	-- Theoretical analysis of a specific learning algorithm regarding its generalization, consistency, or stability properties   
+    -- Use existing theoretical concepts    to create efficient learning algorithms 
+
+A good project will showcase your ability to *clearly define a problem (with practical or theoretical importance)*, *demonstate the motivation and technical details* of your method, 
+ and *conduct meaningful evaluation and analysis*.   
+
+
+=== Grading
+The final project will count for 25\% of your final grade. It will be graded on a scale of 100 points, which include:
+
+- Proposal: 15 points
+- Discussion with class staff: 5 points
+- Final poster: 25 points
+- Poster session participation: 5 points
+- Final report grade: 50 points
+
+=== Sample Posters, Projects from Previous Years
+
+Poster
+- [media/sample_projects/5.pdf Remaining useful life prediction for Lithium-ion batteries across operation conditions by CORAL], Shengyu Tao, Huazhang Ying, Tingwei Cao (application) /* 2022 Best Poster Award*/
+- [media/sample_projects/10.pdf Dancing In the Dark], Chengwei Ren , Jinnan He, Yuzhu Zhang (application) /* 2022 Best Presenter Award*/
+- [media/sample_projects/dive.pdf AI Coach for divers], Lekang Yuan and Xiaohang Yu (application)
+- [media/sample_projects/rectification.pdf Face Rectification on Feature Maps for Recognition], Peng Lu (algorithm)
+
+Report
+- [media/sample_projects/deep_hypergraph_CNN.pdf Deep Hypergraph Convolutional Network for Paper Classification],  Yifei Zhu and Guanzi Chen (algorithm & theory) 
+- [media/sample_projects/co2_reduction.pdf An Application of Machine Learning on Predicting CO2 Reduction Electrocatalysts],
+Chen Liang and Yuhang Zhang (application)
+- [media/sample_projects/distributed_learning.pdf Live Gradient Compensation for Evading Stragglers
+in Distributed Learning] Jian Xu (algorithm) /* published */
+- [media/sample_projects/LMS.pdf Normalized LMS for Adaptive Graph Signal Estimation on Genetic Data
+] Yi Yan (algorithm) /* published */
+- [media/sample_projects/debugging_NN.pdf Debugging Neural Networks], Riccardo Mattesini, Sebastian Beetschen and Bunchalit Eua-arporn (algorithm) 
+
+=== Common Pitfalls
+- *Insufficient contribution* (e.g. Simply run the code of existing models on some benchmark datasets): Try to come up with at least one novel contribution in  any of the three catogries discussed in the /Topics/ section. Or consider a more challenging problem scenario. 
+- *Topic is too broad or too ambitious*: reduce the project scope
+- *Project relies heavily on external factors* (e.g.  data collection, hardware equipment) : be sure to have your data ready at the start of the project. Have backup plan (e.g. alternative  datasets/tasks) when external requirements can not be met by the time you submit your proposal.

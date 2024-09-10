@@ -1,0 +1,95 @@
+# jemdoc: menu{MENU}{project.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+== Poster Presentation Information
+
+
+~~~
+{}{img_left}{./images/poster.jpeg}{profile pic}{100%}{}{}
+~~~
+
+Photo from the Fall 2020 final poster session.
+
+
+=== When & Where 
+
+~~~
+
+ *Time*: June 21 9:00am-12:00pm   
+ 
+ *Location*:  TBA  
+
+ 
+~~~
+
+
+=== What to include in the poster?
+
+- *Abstract*: a short summary of your work (no more than 100 words)
+
+- *Introduction\/Motivation*: why is this problem important and what is your contribution? 
+
+- *Method*: the machine learning methodology used
+ 
+- *Results*: the dataset you use and the experimental results (tables and figures)
+
+- *Conclusion\/Discussion*: conclude your technical/application contributions 
+
+- *Reference*: include 2-3 important references  (You can use smaller fonts for this part.)
+
+
+
+~~~
+{Tips for success}
+
+- Make your poster more engaging by using color, diagrams and images.
+
+- Include an abstract no more than 100 words.
+
+- Avoid illegible fonts in size and style.
+
+- Use succinct, short sentences and avoid using paragraphs of text on your poster. You can also skip words such as "Figure 1", "Table 2" in the captions
+
+- Make sure diagrams and images are large enough to be viewed from a distance.
+
+- Be prepared to answer questions on your research topic. 
+
+~~~
+
+{{<!--}}
+=== Poster Presentation
+
+~~~
+{}{img_left}{./images/session_process.png}{profile pic}{100%}{}{}
+~~~
+
+-  Each team will choose one speaker to present the poster in 3 minutes. (For special occasions that non of the team members can present online, please prepare a video before hand and send it to TA Dexu Kong.)   
+- After the presentation of all teams, a 30-min live Q&A will be held for each track, moderated by the teaching staff.
+
+
+=== Poster Grading Policy 
+Your poster grade will consists of two parts:  5 points for participation (individual) + 25 points for the poster scores  (team)
+
+*Participation*: 
+You can earn participation points by providing feedback in the poster discussion thread (Jan 5th) or asking questions during the live Q&A.
+
+*Poster scores*: 
+You poster will be graded by the instructor and invited guests using the following rules.   
+~~~
+{}{table}{office-hour}
+*Category*  | *Criteria*  | *What it means?* | *Points*||
+Clarity |  Purpose |  Is the problem and motivation clearly defined?|  4   ||
+      |  Methodology  | Is the method appropriately chosen and clearly explained? |    4  ||
+      | Implementation | Are the experimental/numerical results clearly presented? |  4 ||
+Contributions | Technical contribution| Does it have sufficient technical content? i.e.   teaches the readers some machine learning related knowledge beyond class material? | 4 ||
+     | Applicational \/ analytical contribution| Does it show meaningful analysis on results and findings? |4 ||
+Presentation | Poster Quality | Is the poster well organized and legible? Does it make good use of figures and visual representations?  | 3 ||
+Extra credit  |  Novelty |    Does it propose a novel problem or novel solution? | 2
+
+~~~
+
+{{--!>}}
+=== Poster Awards
+You can vote for up to two teams for each of the following awards with special prizes! 
+- Best Presenter (1 person) 
+- Best Poster Award (1 team) 
+- Most Impactful Work (1 team per track) 
