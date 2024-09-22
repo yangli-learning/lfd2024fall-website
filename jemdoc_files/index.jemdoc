@@ -139,6 +139,24 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 	    {{ 
 		</td>
 	</tr> 
+    <tr>
+		<td>
+			9/20  
+		</td>
+		<td> }} 
+		- Supervised Learning I: Linear regression, logistic regression ([media/lecture2.pdf Slides]) {{
+		</td>
+		<td> "Supervised learning" 1.1-1.3,2.1-2.3  (MLLN) <br/>
+			}}
+			[https://web.stanford.edu/%7eboyd/cvxbook/  Convex functions] by Boyd & Vandenberghe (see Chapter 3)
+			{{ 
+		</td>
+		<td> 
+	    }}		
+			[https://classroom.github.com/a/BR48znJQ Programming Assignment 1]
+	    {{ 
+		</td>
+	</tr> 
 	</tr>
 </table>
 }} 
