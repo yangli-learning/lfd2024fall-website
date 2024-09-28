@@ -144,7 +144,7 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 			9/20  
 		</td>
 		<td> }} 
-		- Supervised Learning I: Linear regression, logistic regression ([media/lecture2.pdf Slides]) {{
+		- Supervised Learning I: Linear regression, logistic regression, multi-class classificaiton ([media/lecture2.pdf Slides]) {{
 		</td>
 		<td> "Supervised learning" 1.1-1.3,2.1-2.3  (MLLN) <br/>
 			}}
@@ -154,6 +154,28 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		<td> 
 	    }}		
 			[https://classroom.github.com/a/BR48znJQ Programming Assignment 1]
+	    {{ 
+		</td>
+	</tr> 
+    <tr>
+		<td>
+			9/27  
+		</td>
+		<td> }} 
+		- Supervised Learning II: Generalized linear models, gaussian discriminative analysis (GDA), naive bayes ([media/Lecture3_part1 Slides1] | [media/Lecture3_part2 Slides2]) {{
+		</td>
+		<td> "Generalized linear models" (MLLN) <br/>
+			}}
+			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/Generalized_Linear_Models.pdf  Generalized Linear Models] by Nelder & Wedderburn (1972) 
+			{{
+			"Generative learning algorithms" (MLLN) <br/>
+			}}
+			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/aaaiws98.pdf Event models for NB text classification] by McCallum & Nigam (1998)
+			{{ 
+		</td>
+		<td> 
+	    }}		
+			[media/WA01.pdf Written Assignment 1]
 	    {{ 
 		</td>
 	</tr> 
