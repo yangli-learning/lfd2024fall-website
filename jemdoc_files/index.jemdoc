@@ -176,7 +176,7 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		</td>
 		<td> "Generalized linear models" (MLLN) <br/>
 			}}
-			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/Generalized_Linear_Models.pdf  Generalized Linear Models] by Nelder & Wedderburn (1972) 
+			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/Generalized_Linear_Models.pdf  Generalized Linear Models] by Nelder & Wedderburn (1972)
 			{{
 			"Generative learning algorithms" (MLLN) <br/>
 			}}
@@ -186,6 +186,25 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		<td> 
 	    }}		
 			[media/WA01.pdf Written Assignment 1]
+	    {{ 
+		</td>
+	</tr> 
+    <tr>
+		<td>
+			10/11
+		</td>
+		<td> }} 
+		- Supervised Learning III: Support Vector Machines (SVM) ([media/Lecture4.pdf Slides]) {{
+		</td>
+		<td> "Support Vector Machines" (MLLN) <br/>
+			}}
+			References: [http://yangli-feasibility.com/home/classes/lfd2024spring/media/Cortes-Vapnik1995.pdf  Support Vector Networks ] by Cortes and Vapnik;
+			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/LiLi_SVM.pdf SVM notes] from “Selected Applications of Convex Optimization” by Li Li; [https://web.stanford.edu/%7eboyd/cvxbook/ Convex optimization] by Stephen Boyd (See Chapter 5)
+			{{
+		</td>
+		<td> 
+	    }}		
+			[https://classroom.github.com/a/tiVSln0E Programming Assignment 2]
 	    {{ 
 		</td>
 	</tr> 
