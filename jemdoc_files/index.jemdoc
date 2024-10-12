@@ -22,6 +22,8 @@ For more information about grading, homework and exam policies, see the [./media
 
 *Prerequisites*: Undergraduate level calculus, probability and linear algebra. Basic Python programming.
 
+✨*Q&A Document*✨: This semester we encourage students to ask questions and discuss together on the [https://docs.qq.com/doc/DVFJlSWd5cmhTQ05l online document]. Come and join the society 😊
+
 
 == Team
 
@@ -81,7 +83,7 @@ Tong | Friday 5:00-6:00pm | Info Building, 11th floor common area
 You can also make appointments outside office hours.
 
 == Recitation \& Review Sessions
-Recitations will be held every Friday 9:00-9:45am in the lecture room.
+Recitations will be held every Friday in the lecture room.
 {{
 <table class="table table-striped" id="recitation">
 	<tr>
@@ -103,6 +105,26 @@ Recitations will be held every Friday 9:00-9:45am in the lecture room.
 		{{    
 		</td> 
 	</tr>	
+	<tr>
+		<td>9/27</td>
+		<td> 
+			 Recitaiton: Two example of GLM. }}
+			([media/recitation1.pdf GLM] | [https://cloud.tsinghua.edu.cn/d/2ee2e78522044601b5f4/ Course Video])
+			 {{
+		</td>
+		<td>
+		</td> 
+	</tr>
+	<tr>
+		<td>10/1</td>
+		<td> 
+			 Recitaiton: PA1 Q&A, KKT Condition, Matrix Derivative }}
+			([https://cloud.tsinghua.edu.cn/d/5f6ee40fb9384ffab37b/ Course Materials & Video])
+			 {{
+		</td>
+		<td>
+		</td> 
+	</tr>
 </table>
 }}
 
@@ -166,7 +188,7 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		</td>
 		<td> "Generalized linear models" (MLLN) <br/>
 			}}
-			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/Generalized_Linear_Models.pdf  Generalized Linear Models] by Nelder & Wedderburn (1972) 
+			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/Generalized_Linear_Models.pdf  Generalized Linear Models] by Nelder & Wedderburn (1972)
 			{{
 			"Generative learning algorithms" (MLLN) <br/>
 			}}
@@ -176,6 +198,25 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		<td> 
 	    }}		
 			[media/WA01.pdf Written Assignment 1]
+	    {{ 
+		</td>
+	</tr> 
+    <tr>
+		<td>
+			10/11
+		</td>
+		<td> }} 
+		- Supervised Learning III: Support Vector Machines (SVM) ([media/Lecture4.pdf Slides]) {{
+		</td>
+		<td> "Support Vector Machines" (MLLN) <br/>
+			}}
+			References: [http://yangli-feasibility.com/home/classes/lfd2024spring/media/Cortes-Vapnik1995.pdf  Support Vector Networks ] by Cortes and Vapnik;
+			[http://yangli-feasibility.com/home/classes/lfd2024spring/media/LiLi_SVM.pdf SVM notes] from “Selected Applications of Convex Optimization” by Li Li; [https://web.stanford.edu/%7eboyd/cvxbook/ Convex optimization] by Stephen Boyd (See Chapter 5)
+			{{
+		</td>
+		<td> 
+	    }}		
+			[https://classroom.github.com/a/N13Dd_Iv Programming Assignment 2]
 	    {{ 
 		</td>
 	</tr> 
