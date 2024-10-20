@@ -116,13 +116,24 @@ Recitations will be held every Friday in the lecture room.
 		</td> 
 	</tr>
 	<tr>
-		<td>10/1</td>
+		<td>10/11</td>
 		<td> 
 			 Recitaiton: PA1 Q&A, KKT Condition, Matrix Derivative }}
 			([https://cloud.tsinghua.edu.cn/d/5f6ee40fb9384ffab37b/ Course Materials & Video])
 			 {{
 		</td>
 		<td>
+		</td> 
+	</tr>
+	<tr>
+		<td>10/18</td>
+		<td> 
+			 Recitaiton: Backpropagation & Forward-Forward Algorithm }}
+			([media/recitation2_part1.pdf Course Material1] | [media/recitation2_part2.pdf Course Material2] | [https://meeting.tencent.com/cw/2Z9ALd5K82 Video])
+			 {{
+		</td>
+		<td>
+			 }}[https://arxiv.org/abs/2212.13345 Forward-Forward Algorithm] by Geoffrey Hinton {{
 		</td> 
 	</tr>
 </table>
@@ -216,10 +227,27 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		</td>
 		<td> 
 	    }}		
-			[https://classroom.github.com/a/N13Dd_Iv Programming Assignment 2]
+			[https://classroom.github.com/a/JBu4S7x5 Programming Assignment 2]
 	    {{ 
 		</td>
 	</tr> 
-	</tr>
+    <tr>
+		<td>
+			10/18
+		</td>
+		<td> }} 
+		- Supervised Learning IV: Neural Networks and Backpropagation ([media/lecture5_part1.pdf Slides1] | [media/lecture5_part2.pptx Slides2]) {{
+		</td>
+		<td> "Support Vector Machines" (MLLN) <br/>
+			}}
+			[https://www.deeplearningbook.org/contents/mlp.html “Deep Feed Forword Networks”] from Deep Learing by Ian Goodfellow
+			{{
+		</td>
+		<td> 
+	    }}		
+			[media/WA2.pdf Written Assignment 2], [media/WA1_solution.pdf WA1 solution]
+	    {{ 
+		</td>
+	</tr> 
 </table>
 }} 
