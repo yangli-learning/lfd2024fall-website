@@ -28,4 +28,7 @@ jobs:
 
     - name: Run script on remote server
       run: |
-        ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes yang@yangli-feasibility.com 'bash -s' < /home/yang/update_lfd.sh
+        ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes yang@yangli-feasibility.com  << 'EOF'
+        echo "Hello, remote server!"
+        home/yang/update_lfd.sh
+        EOF
