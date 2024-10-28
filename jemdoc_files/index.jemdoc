@@ -6,6 +6,9 @@ Welcome to the class website of *Learning from Data*!
 ~~~
 {News}   
 - *2024-9-10*: The review session will be held on *Thursday（9/12） evening 7:00-9:00PM*, at International Phase 1, Room C501.   
+- *2024-10-28*: Our midterm exam will take place on *November 1st* during class time. To ensure proper spacing, we have arranged two exam rooms: *International Phase C405 and C606*.
+Please check the *[media/mid_ass.xls Excel sheet]* to find your assigned exam room. If you notice that you have not been assigned a room, please contact me as soon as possible.
+Wishing everyone good luck on the exam!
 ~~~
 
 
@@ -136,6 +139,16 @@ Recitations will be held every Friday in the lecture room.
 			 }}[https://arxiv.org/abs/2212.13345 Forward-Forward Algorithm] by Geoffrey Hinton {{
 		</td> 
 	</tr>
+	<tr>
+		<td>10/26</td>
+		<td> 
+			 Midterm Review }}
+			([https://cloud.tsinghua.edu.cn/d/1b3a6d69e9344c1e96f6/ Course Materials & Video])
+			 {{
+		</td>
+		<td>
+		</td> 
+	</tr>
 </table>
 }}
 
@@ -246,6 +259,22 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		<td> 
 	    }}		
 			[media/WA2.pdf Written Assignment 2], [media/WA1_solution.pdf WA1 solution]
+	    {{ 
+		</td>
+	</tr> 
+    <tr>
+		<td>
+			10/25
+		</td>
+		<td> }} 
+		- Model Selection and Regularization ([media/lecture6.pdf Slides]) {{
+		</td>
+		<td> 
+			“Regularization and model selection” (MLLN) }}[https://www.deeplearningbook.org/contents/regularization.html “Regularization for Deep Learning”]{{
+		</td>
+		<td> 
+	    }}		
+			
 	    {{ 
 		</td>
 	</tr> 
