@@ -278,5 +278,21 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 	    {{ 
 		</td>
 	</tr> 
+    <tr>
+		<td>
+			11/08
+		</td>
+		<td> }} 
+		- Basic Learning Theory ([media/lecture7.pdf Slides]) {{
+		</td>
+		<td> 
+			"Generalization" (MLLN) 
+		</td>
+		<td> 
+	    }}		
+			
+	    {{ 
+		</td>
+	</tr> 
 </table>
 }} 
