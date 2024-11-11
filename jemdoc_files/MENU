@@ -2,7 +2,7 @@ Class Page
     top                 [index.html]
     schedule            [index.html#schedule]
     recitation          [index.html#recitation]
-    final project       [index.html]
+    final project       [project.html]
 Links
     Spring 2024 page    [../lfd2024spring]
     Fall 2022 page    [../lfd2022fall]
