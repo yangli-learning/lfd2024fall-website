@@ -3,19 +3,19 @@
 == Class Project Information
 
 === Teams 
-The final project will be done in teams of 2-3 people.  Please fill in the team assignment form before Apirl 26.  
+The final project will be done in teams of 3 people.  Please fill in the team assignment form before November 11.  
 
 === Important Milestones
 
 ~~~
 {}{table}{office-hour}
 *Deadline*   | *Task* ||
-Apirl 28 | Submit group assigment  ||
-May 13 | Submit project proposal   ||
-May 14-17 | Team meeting with course staff ||
-June 19 | Submit poster PDF file (Submission will be closed at 11:59am) ||
-June 21 | Poster session ||
-June 28 | Submit final report   
+November 11 | Submit group assigment  ||
+November 22 | Submit project proposal   ||
+December 6 | Team meeting with course staff ||
+December 25 | Submit poster PDF file (Submission will be closed at 11:59am) ||
+December 27 | Poster session ||
+January 3 | Submit final report   
 
 ~~~
 
@@ -26,13 +26,13 @@ June 28 | Submit final report
 *Meeting with course staff*: After submitting the proposal, please arrange a meeting with the instructor or one of the TAs get feedback on the project proposal. 
 
 *Poster Presentation*: We will hold a poster session to showcase your project on the final week. 
-Each group need to submit a poster in *PDF format* of *A0-size* to Web Learning before June 12. 
-You will present your work in our final class on June 21.  
+Each group need to submit a poster in *PDF format* of *A0-size* to Web Learning before December 25. 
+You will present your work in our final class on December 27.  
 
 *Final Report*: Each group should submit a written report in a single PDF document with at most *4 pages*. 
 All related materials, such as source code, should also be provided. 
 
-*[project_ideas.html Datasets and project ideas]* 
+*[project.html Datasets and project ideas (Coming soon)]* 
 
 *[media/PosterPresentations.com-A0-Template.pptx  Poster template]*
 
@@ -70,20 +70,14 @@ The final project will count for 25\% of your final grade. It will be graded on 
 === Sample Posters, Projects from Previous Years
 
 Poster
-- [media/sample_projects/5.pdf Remaining useful life prediction for Lithium-ion batteries across operation conditions by CORAL], Shengyu Tao, Huazhang Ying, Tingwei Cao (application) /* 2022 Best Poster Award*/
-- [media/sample_projects/10.pdf Dancing In the Dark], Chengwei Ren , Jinnan He, Yuzhu Zhang (application) /* 2022 Best Presenter Award*/
-- [media/sample_projects/dive.pdf AI Coach for divers], Lekang Yuan and Xiaohang Yu (application)
-- [media/sample_projects/rectification.pdf Face Rectification on Feature Maps for Recognition], Peng Lu (algorithm)
+- [media/sample_projects/lihan_zhang.pdf Learning Relative Depth Guidance for Human Pose Transfer], Lihan Zhang and Ciyu Ruan
+- [media/sample_projects/yiran_wang.pdf Text-Guided Zero-Shot Audio Style Transfer], Yiran Wang
+- [media/sample_projects/ran_yu.pdf Depth Restoration for Hand-Held Transparent Object], Ran Yu, Liguang Ruan
 
 Report
-- [media/sample_projects/deep_hypergraph_CNN.pdf Deep Hypergraph Convolutional Network for Paper Classification],  Yifei Zhu and Guanzi Chen (algorithm & theory) 
-- [media/sample_projects/co2_reduction.pdf An Application of Machine Learning on Predicting CO2 Reduction Electrocatalysts],
-Chen Liang and Yuhang Zhang (application)
-- [media/sample_projects/distributed_learning.pdf Live Gradient Compensation for Evading Stragglers
-in Distributed Learning] Jian Xu (algorithm) /* published */
-- [media/sample_projects/LMS.pdf Normalized LMS for Adaptive Graph Signal Estimation on Genetic Data
-] Yi Yan (algorithm) /* published */
-- [media/sample_projects/debugging_NN.pdf Debugging Neural Networks], Riccardo Mattesini, Sebastian Beetschen and Bunchalit Eua-arporn (algorithm) 
+- [media/sample_projects/siqi_ping.pdf Beyond Aggregation: Efficient Federated Model Consolidation with Heterogeneity-Adaptive Weights Diffusion],  Jiaqi Li, Siqi Ping 
+- [media/sample_projects/jiahao_li.pdf A Transformer-Based Multimodal Classification Network for Smart Tire], Tong Wu, Jiahao Li
+- [media/sample_projects/chi_xu.pdf IFP: Filter Pruning via Information Flow for Deep Neural Networks Acceleration] Chi Xu
 
 === Common Pitfalls
 - *Insufficient contribution* (e.g. Simply run the code of existing models on some benchmark datasets): Try to come up with at least one novel contribution in  any of the three catogries discussed in the /Topics/ section. Or consider a more challenging problem scenario. 

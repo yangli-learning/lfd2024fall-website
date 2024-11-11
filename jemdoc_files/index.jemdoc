@@ -286,11 +286,12 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		- Basic Learning Theory ([media/lecture7.pdf Slides]) {{
 		</td>
 		<td> 
-			"Generalization" (MLLN) 
+			Reading for Generalization Bound: }}[https://www.cs.cmu.edu/~ninamf/ML11/lect1117.pdf Rademacher Complexity]{{ <br/>
+			}}[https://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf Paper]{{ on Rademacher generalization bound (with application to SVM, decision trees, and neural networks)
 		</td>
 		<td> 
 	    }}		
-			
+			[https://classroom.github.com/a/4N3ERUdr Programming Assignment 3]
 	    {{ 
 		</td>
 	</tr> 
