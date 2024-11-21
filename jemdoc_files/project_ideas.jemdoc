@@ -5,114 +5,121 @@
 Below are some potential datasets and topics for your class project. Please contact the course staff if you have questions about these datasets. 
 
 
-===  Application problems 
-
 ~~~
-{}{img_left}{./images/construction.png}{}{200px}{}{}
+{}{img_left}{./images/diffusion_policy.jpeg}{}{200px}{}{}
 
-==== Construction activity recognition  
-(Contact teaching staff for dataset)
+==== 1.	Planning and Behavior Synthesis with Generative Models
 
-RGB videos of construction workers involved in different acitivities. 
-Person bounding box and partial activity lables are provided. 
+Leverage generative models (e.g., diffusion models) for planning in imitation learning or multi-agent systems. 
 
 *Project ideas*:  
-- Semi-supervised construction worker activity recognition   
-- Active learning for activity recognition
+- Compare generative planning with traditional planning approaches (e.g., A*, MCTS).   
+- Explore how diffusion models can model high-dimensional action spaces
+
+*Reference papers*:
+- Diffusion Policy: Visuomotor Policy Learning via Action Diffusion
+- Planning with Diffusion for Flexible Behavior Synthesis
 ~~~
  
 
 
 ~~~
-{}{img_left}{./images/pose.png}{}{200px}{}{}
-==== Multimodal 3D human pose estimation 
-[https://cloud.tsinghua.edu.cn/f/8f00d62e147a4fcc9ad4/?dl=1 Download]
+{}{img_left}{./images/AI4construction.jpeg}{}{200px}{}{}
+==== 2.	AI for Construction Site Safety Monitoring 
 
-A human pose estimation dataset containing videos from two cameras and two IMU sensors attached on the right forarm and the upper arm of the actor.  The ground truth 3D joint coordinates are computed using opencap. 
+By combining machine learning techniques with construction site safety, we can create systems that not only predict and prevent accidents but also automate and optimize safety measures in real-time.
 
-Project ideas:
-- Use video input of a single camera and IMU data to estimate the 3D joint coordinates of human body.  
-- Improve vision-based pose estimation with occlusion using sensor data. 
+*Project ideas*:  
+- Improving Safety Prediction under Noisy Data. Construction site data, especially from wearables or environmental sensors, may have noise or missing values. Develop robust algorithms to handle noisy, incomplete, or inconsistent data to improve safety prediction models.
+- Anomaly Detection for Safety Incidents. Develop an anomaly detection system that identifies unusual or potentially dangerous conditions in construction site data (e.g., unusual vibrations from equipment, irregular worker behavior).
+
+*Reference papers*:
+- Human-object interaction recognition for automatic construction site safety inspection
+- Deep learning for site safety: Real-time detection of personal protective equipment
+- Improved detection network model based on YOLOv5 for warning safety in construction sites
+
+*Related Datasets*:
+- Construction site object: SODA dataset, MOCS dataset, ACID dataset
+- Buildings: BCS dataset 
+- Worker behavior: CMA dataset 
 ~~~
 
 
 
 ~~~
-{}{img_left}{./images/case.png}{}{200px}{}{}
-==== Enhancing Shenzhen citizens' demand mediation through AI
+{}{img_left}{./images/task_decomposition.png}{}{200px}{}{}
+==== 3.	Task compositionally
 
-(Contact course staff for dataset)
+How to breakdown complex tasks into simpler component tasks and combining them to form solution? This question can be studied in both the supervised learning (e.g. question answering, visual perception), unsupervised learning (e.g. generative model) and reinforcement learning (e.g. skill planning) scenarios. How to decompose multimodal tasks? One can also take a theoretical perspective to investigate when composed model can have better performance than a single model.
 
-
-A dataset containing records  of over 15,000   complaint cases collected from the Shenzhen Citizen Service Hotlines during 2022-2023. 
-
-
-*Project ideas*:
-- Develop a model that predicts the total processing time of a  complaint and its final outcome
-- Analyze the causal factors causing user dissatisfaction
-- Model how a complaint case is transferred across a network of different civil departments. 
-
-~~~
-
-
-
-
-
-~~~
-{}{img_left}{./images/volunteers.png}{}{200px}{}{}
-==== Shenzhen volunteer activity dataset
-[https://volunteerchallenge.github.io Website]
-
-Volunteer participation records from the 战役先锋APP platform from Feb 2020 to Jan 2022. Each record contains user id and volunteer task descriptions including location, date time, actvity type etc. 
-
-*Project ideas*:
-- Find patterns in volunteer activities in response to the COVID-19 outbreak in Shenzhen 
-- Predict the retention of a volunteer based on past volunteering history
-- Model how volunteer communities evolve over time
+*Reference papers*:
+- Compositional Generative Modeling: A Single Model is Not All You Need (generative model)
+- Planning with Diffusion for Flexible Behavior Synthesis; (RL)
+- Explorer, discover and learn: Unsupervised discovery of state-covering skills (RL)
+- Scalable multi-agent covering option discovery based on kronecker graphs; (MARL)
+- A Complexity-Based Theory of Compositionality (theory)
 ~~~
 
 
 
 
 
-===  Machine learning problems 
 ~~~
-{}{img_left}{./images/recomm.png}{}{200px}{}{}
-==== Source model recommendation in few-shot transfer learning
-[https://github.com/davechenxy/Model_Detective  Website]
+{}{img_left}{./images/sparse_coding_NN.jpeg}{}{200px}{}{}
+==== 4.	Sparse Coding in Neural Networks: 
 
-*Problem*: Given a zoo of different pre-trained models, how to efficiently recommend best models  for a few-shot task?
+Investigate how integrating sparse coding principles into neural network architectures can improve model interpretability and efficiency, particularly in resource-constrained environments.
 
-*Dataset*: A benchmark dataset containing the fine-tuning results of 10 source models on 270 tasks will be provided.
-Each model has a variety of features including description, architecture info and training dataset info.  
-
-*Project Idea*:
- - Learn latent task embedding  
- - Improve model recommendation by transferability estimation 
-
+*Reference papers*:
+- Deep Dictionary Learning: A PARametric NETwork Approach
 ~~~
 
 
+
+
+
 ~~~
-{}{img_left}{./images/sequential.png}{}{200px}{}{}
-==== Learning transfer path for sequential transfer learning  
+{}{img_left}{./images/dic_learn.jpg}{}{200px}{}{}
+==== 5.	Robust Dictionary Learning under Noise
 
-(Contact teaching staff for dataset)
+Investigate methods to enhance the robustness of dictionary learning algorithms in the presence of noise and outliers, with applications in audio and image processing. 
 
-*Problem*: Sequential transfer learning is useful when transfering from a source model (S) to a distant target task (T), 
-where a few-shot intermediate task (I) acts as a bridge between the source and target model.  
-How to select the optimal sequence of intermediate tasks? 
-
-*Dataset*: A collection of multi-center, multi-domain medical segmentation datasets. 
-Historical sequential fine-tuning results   of all 1- and 2-hop transfer paths on this dataset are available.   
-
-*Project Idea*:
- - Explore under what condition is S->I->T more effective than S->T transfer. 
- - Learn the optimal transfer sequence (policy) by reinforcement learning 
-
+*Reference paper*:
+- Deep Convolutional Dictionary Learning for Image Denoising
 ~~~
 
 
+~~~
+{}{img_left}{./images/OODD.jpeg}{}{200px}{}{}
+==== 6.	Out-of-distribution Detection
+
+Current NNs can give likelihood and probability for known classes. When a new class or different style emerge, they may not perform well. Investigate and Design a framework to detect new unseen classes. 
+
+*Reference paper*:
+- How to Overcome Curse-of-Dimensionality for Out-of-Distribution Detection?
+~~~
+
+~~~
+{}{img_left}{./images/cot.png}{}{200px}{}{}
+==== 7.	Stable Chain-of-thought
+
+Chain-of-thought has been developed in LLM systems recently. However, how to improve its stability and effectiveness in diverse tasks remain a challenge. Try to combine the methods you have learnt to improve it.
+
+*Reference paper*:
+- Why Can Large Language Models Generate Correct Chain-of-Thoughts?
+~~~
+
+
+
+~~~
+{}{img_left}{./images/descent_behaviors.png}{}{200px}{}{}
+==== 8.	Multiple descent behavior in machine learning
+
+Analyze the condition of multiple descent behavior in context other than supervised learning (e.g. unsupervised learning, graph learning, etc).
+
+*Reference paper*:
+- Reconciling modern machine-learning practice and the classical bias–variance trade-off
+~~~
  
  
 
