@@ -9,6 +9,8 @@ Welcome to the class website of *Learning from Data*!
 - *2024-10-28*: Our midterm exam will take place on *November 1st* during class time. To ensure proper spacing, we have arranged two exam rooms: *International Phase C405 and C606*.
 Please check the *[media/mid_ass.xls Excel sheet]* to find your assigned exam room. If you notice that you have not been assigned a room, please contact me as soon as possible.
 Wishing everyone good luck on the exam!
+- *2024-11-19*: From November 25th to November 28th, you will have the opportunity to meet with the TA to discuss your final project proposal. After meeting with the TA, you should wait at least 3 days before scheduling a follow-up meeting with the teacher for further discussion.  The discussion will account for 5% of your final project grade. [https://docs.qq.com/sheet/DWGtKeHBXb2lKQW5J Online Schedule]
+- *2024-11-23*: A questionnaire about your participation during the last half of the semester. It is mandatory for everyone and is due by 23:59 on November 25th. As this is a self-assessment, we kindly ask that you answer the questions honestly. *[https://wj.qq.com/s2/16528509/b6f4/ Questionnaire]*
 ~~~
 
 
@@ -154,6 +156,16 @@ Recitations will be held every Friday in the lecture room.
 		<td> 
 			 Recitation: Learning Bounds }}
 			([https://cloud.tsinghua.edu.cn/f/6e1b0a73e0d442bbb2e4/ Course Materials & Video])
+			 {{
+		</td>
+		<td>
+		</td> 
+	</tr>
+	<tr>
+		<td>11/22</td>
+		<td> 
+			 Recitation: Discussion on Programming Homework }}
+			 ([https://cloud.tsinghua.edu.cn/d/b524aa388eee4cb3afea/ Course Materials & Video])
 			 {{
 		</td>
 		<td>
@@ -320,6 +332,19 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 	    }}		
 			[media/WA3.pdf Written Assignment 3]
 	    {{ 
+		</td>
+	</tr> 
+   <tr>
+		<td>
+			11/22
+		</td>
+		<td> }} 
+		- Unsupervised Learning II : PCA ([media/lecture9.pdf Slides]) {{
+		</td>
+		<td> 
+			"Principal component analysis" (MLLN)
+		</td>
+		<td> 
 		</td>
 	</tr> 
 </table>
