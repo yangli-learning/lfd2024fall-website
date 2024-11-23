@@ -159,6 +159,16 @@ Recitations will be held every Friday in the lecture room.
 		<td>
 		</td> 
 	</tr>
+	<tr>
+		<td>11/22</td>
+		<td> 
+			 Recitation: Discussion on Programming Homework }}
+			 ([https://cloud.tsinghua.edu.cn/d/b524aa388eee4cb3afea/ Course Materials & Video])
+			 {{
+		</td>
+		<td>
+		</td> 
+	</tr>
 </table>
 }}
 
@@ -320,6 +330,19 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 	    }}		
 			[media/WA3.pdf Written Assignment 3]
 	    {{ 
+		</td>
+	</tr> 
+   <tr>
+		<td>
+			11/22
+		</td>
+		<td> }} 
+		- Unsupervised Learning II : PCA ([media/lecture9.pdf Slides]) {{
+		</td>
+		<td> 
+			"Principal component analysis" (MLLN)
+		</td>
+		<td> 
 		</td>
 	</tr> 
 </table>
