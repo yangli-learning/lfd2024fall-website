@@ -347,5 +347,20 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 		<td> 
 		</td>
 	</tr> 
+    <tr>
+		<td>
+			11/29
+		</td>
+		<td> }} 
+			- Reinforcement Learning ([media/lecture10.pdf Slides]) {{
+		</td>
+		<td> 
+			}}[media/MB&MFRL.pdf Model-based and model-free RL; ]{{<br/>
+			}}[http://heli.stanford.edu/papers/iser04-invertedflight.pdf Helicopter flight via reinforcement learning ]{{
+		</td>
+		<td> 
+			}}[https://classroom.github.com/a/VL6wNwdi Programming Assignment 4]{{
+		</td>
+	</tr> 
 </table>
 }} 
