@@ -362,5 +362,20 @@ The main reference reading material is the [https://cs229.stanford.edu/main_note
 			}}[https://classroom.github.com/a/VL6wNwdi Programming Assignment 4]{{
 		</td>
 	</tr> 
+	<tr>
+		<td>
+			12/06
+		</td>
+		<td> }} 
+			- Unsupervised Learing III: ICA, CCA ([media/lecture11.pdf Slides]) {{
+		</td>
+		<td> 
+			“Independent Component Analysis” (MLLN) <br/>
+			}}[media/DeepCCA.pdf Deep CCA ]{{
+		</td>
+		<td> 
+			}}[media/WA4.pdf Written Assignment 4]{{
+		</td>
+	</tr> 
 </table>
 }} 
